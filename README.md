@@ -46,6 +46,6 @@ Clarification / additional details for RIYAADA (ROR request)
 	•	Country: Somalia
 	•	GeoNames ID (Mogadishu): 53654
 	•	Year established: 2023
-WikiData: ‪Q138003758‬
+WikiData: ‪Q138003758‬ 
 
 ‪ (‬RIYAADA Institute for Leadership & Governance )
