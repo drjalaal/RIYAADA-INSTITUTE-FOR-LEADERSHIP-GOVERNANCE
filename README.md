@@ -28,6 +28,7 @@ Data, Epidemiology & Digital Health
 
 Emergency & Outbreak Leadership
 
+
 Executive & Cross-Cutting Skills
 Why RIYAADA
 Leadership Alone Does Not Build Institutions. Systems Do.
