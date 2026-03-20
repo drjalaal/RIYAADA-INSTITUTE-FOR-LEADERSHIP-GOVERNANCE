@@ -1,6 +1,7 @@
 # RIYAADA Institute for Leadership & Governance is a premier institute that converts leadership intent into institutional capacity in fragile and complex systems.
 RIYAADA Institute for Leadership & Governance is a professional, standards-based academy founded to address one of the most persistent challenges in fragile states: the gap between leadership intent and institutional performance.
 Headquartered in Mogadishu, RIYADA serves leaders across Somalia, the Horn of Africa, and similar high-uncertainty contexts. Our work spans public administration, health systems, emergency preparedness, governance reform, and evidence-based decision-making.
+
 RIYAADA is a premier institution dedicated to cultivating leaders who transform fragile and complex systems into resilient, accountable, and high-performing institutions.
 It operates at the intersection of governance, health systems, and institutional reform—producing enduring systems rather than just graduates with certificates.
 Mandate: Leadership & Transformation
